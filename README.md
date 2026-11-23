@@ -30,4 +30,4 @@ Cristopher Figueroa · Dominican Republic · English / Spanish
 - Cosmetology frontend: https://cf-makeup-demo.vercel.app
 - 3D carousel: https://cf-3d-carousel.vercel.app
 - Flag Team Manager: https://flag-team-manager-demo.vercel.app
-- Customer & address manager: https://customer-address-demo.vercel.app
+- Customer & address manager: https://oriontek-customer-demo.vercel.app
