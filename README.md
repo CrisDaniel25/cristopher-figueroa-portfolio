@@ -8,7 +8,7 @@ Bilingual portfolio and five browser-local engineering simulations.
 - Anonymized experience summaries that avoid client or employer names and implementation details.
 - Five interactive sample labs: tenant onboarding validation, RBAC permissions, OAuth 2.0 + PKCE flow, bounded background-job queue, and a REST API explorer.
 - Fictional data only. The labs do not call a live backend and are not production or client deliverables.
-- Ten public Vercel live demos covering enterprise .NET architecture, Angular/Express applications, dynamic forms, Laravel, Blazor and PHP/MySQL.
+- Eleven public Vercel live demos covering enterprise .NET architecture, Angular/Express applications, multi-tenant administration, SSO, dynamic forms, Laravel, Blazor and PHP/MySQL.
 - Static hosting configuration for Vercel and Netlify.
 
 ## Run locally
@@ -31,6 +31,7 @@ Cristopher Figueroa · Dominican Republic · English / Spanish
 - 3D carousel: https://cf-3d-carousel.vercel.app
 - Flag Team Manager: https://flag-team-manager-demo.vercel.app
 - Customer & address manager: https://oriontek-customer-demo.vercel.app
+- Organization management: https://organization-management-demo.vercel.app
 - PeopleOps employee management: https://peopleops-employee-demo.vercel.app
 - Dynamic form builder: https://dynamic-form-builder-demo.vercel.app
 - Database connection manager: https://database-connections-demo.vercel.app
